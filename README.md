@@ -26,3 +26,21 @@ The results will look as follows:
 
 The file uses pipenv to manage the dependencies, all dependencies can be found in
 `/Pipfile`
+
+
+```
+              (
+               )
+              (
+        /\  .-"""-.  /\
+       //\\/  ,,,  \//\\
+       |/\| ,;;;;;, |/\|
+       //\\\;-"""-;///\\
+      //  \/   .   \/  \\
+     (| ,-_| \ | / |_-, |)
+       //`__\.-.-./__`\\
+      // /.-(() ())-.\ \\
+     (\ |)   '---'   (| /)
+      ` (|           |) `
+        \)           (/
+```
